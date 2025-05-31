@@ -35,4 +35,6 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
       }
     });
   });
+
+card.className = 'kuis-card';
   
